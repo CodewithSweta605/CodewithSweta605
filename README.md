@@ -11,11 +11,13 @@
 
 ## 👩‍💻 About Me
 
-I am a motivated **B.Tech Computer Science Engineering & Design student** with a strong interest in **Python programming, problem-solving, and web development**. I enjoy building logical and efficient solutions and continuously improving my technical skills through hands-on projects, coding practice, and hackathons.
 
-I am currently focusing on strengthening my foundations in **Python, data structures, and algorithms**, while also exploring **frontend web technologies** such as HTML, CSS, and JavaScript. I actively practice coding on platforms like **HackerRank** to improve my analytical thinking and prepare for technical assessments.
-
-I am passionate about learning emerging technologies, collaborating on innovative ideas, and developing projects that solve real-world problems. I am seeking opportunities to grow as a developer, contribute to open-source, and gain industry-relevant experience.
+- 🎓 B.Tech Computer Science Engineering & Design student with a strong academic foundation.  
+- 🐍 Skilled in Python programming with a focus on problem-solving and logic building.  
+- 🌐 Familiar with web development fundamentals including HTML, CSS, and JavaScript.  
+- 🧠 Actively practicing data structures and algorithms to improve coding efficiency.  
+- 🏆 Participates in hackathons and coding challenges to gain real-world experience.  
+- 🚀 Highly motivated to learn new technologies and contribute to impactful projects.
 
 ---
 
@@ -35,7 +37,7 @@ I am passionate about learning emerging technologies, collaborating on innovativ
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=<h1 align="center">Hi 👋, I'm Sweta Kumari</h1>
+  <img src="https://github-readme-stats.vercel.app/api?username=<h1 align="center">Hi 👋, I'm Sweta Kumari Thakur</h1>
 <h3 align="center">B.Tech CSE Student | Python Developer | Web Development Learner</h3>
 
 ---
@@ -116,13 +118,13 @@ I am passionate about learning emerging technologies, collaborating on innovativ
 
 ## 🐍 Contribution Snake
 
-![Snake animation](https://github.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/CodewithSweta605/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
 ⭐ *Thank you for visiting my GitHub profile! Feel free to explore my repositories and connect with me.*
 &show_icons=true&theme=radical" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodewithSweta605&layout=compact&theme=radical" width="48%"/>
 </p>
 
 ---
@@ -130,7 +132,7 @@ I am passionate about learning emerging technologies, collaborating on innovativ
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CodewithSweta605&theme=radical"/>
 </p>
 
 ---
@@ -159,7 +161,6 @@ I am passionate about learning emerging technologies, collaborating on innovativ
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
   </a>
   <a href="mailto:swetakumarithakur14@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
   </a>
 </p>
 
@@ -167,7 +168,7 @@ I am passionate about learning emerging technologies, collaborating on innovativ
 
 ## 🐍 Contribution Snake
 
-![Snake animation](https://github.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/CodewithSweta605/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
