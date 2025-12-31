@@ -80,6 +80,9 @@
   <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/CodewithSweta605/CodewithSweta605/output/github-contribution-grid-snake.svg">
 </picture>
 
+
+
+
 ⭐ *Thank you for visiting my GitHub profile! Feel free to explore my repositories and connect with me.*
 
 <!--
