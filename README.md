@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sweta Kumari Thakur</h1>
-<h3 align="center">B.Tech CSE Student | Python Developer | Web Development Learner</h3>
+<h3 align="center">B.Tech CSD Student | Python Developer | Web Development Learner</h3>
 
 ---
 
@@ -38,7 +38,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=<h1 align="center">Hi 👋, I'm Sweta Kumari Thakur</h1>
-<h3 align="center">B.Tech CSE Student | Python Developer | Web Development Learner</h3>
+<h3 align="center">B.Tech CSD Student | Python Developer | Web Development Learner</h3>
 
 ---
 
