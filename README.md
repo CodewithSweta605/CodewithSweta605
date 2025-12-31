@@ -4,7 +4,7 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=B.Tech+CSE+Student;Python+Developer;Web+Development+Learner;Hackathon+Enthusiast&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=B.Tech+CSD+Student;Python+Developer;Web+Development+Learner;Hackathon+Enthusiast&center=true&width=500&height=45">
 </p>
 
 ---
@@ -43,7 +43,7 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=B.Tech+CSE+Student;Python+Developer;Web+Development+Learner;Hackathon+Enthusiast&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=B.Tech+CSD+Student;Python+Developer;Web+Development+Learner;Hackathon+Enthusiast&center=true&width=500&height=45">
 </p>
 
 ---
