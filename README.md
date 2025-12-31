@@ -34,22 +34,14 @@
 </p>
 
 ---
-
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=<h1 align="center">Hi 👋, I'm Sweta Kumari Thakur</h1>
-<h3 align="center">B.Tech CSD Student | Python Developer | Web Development Learner</h3>
-
----
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=B.Tech+CSD+Student;Python+Developer;Web+Development+Learner;Hackathon+Enthusiast&center=true&width=500&height=45">
+  <img src="https://github-readme-stats.vercel.app/api?username=CodewithSweta605&show_icons=true&theme=radical" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodewithSweta605&layout=compact&theme=radical" width="48%"/>
 </p>
 
 ---
-
-
 
 ## 🔥 GitHub Streak
 
@@ -58,6 +50,10 @@
 </p>
 
 ---
+
+
+
+
 
 ## 🚀 Projects
 
