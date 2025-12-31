@@ -30,6 +30,7 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
 </p>
 
 ---
@@ -88,9 +89,11 @@
 
 ## 🐍 Contribution Snake
 
-![Snake animation](https://github.com/CodewithSweta605/blob/output/github-contribution-grid-snake.svg)
-
----
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CodewithSweta605/CodewithSweta605/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CodewithSweta605/CodewithSweta605/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/CodewithSweta605/CodewithSweta605/output/github-contribution-grid-snake.svg">
+</picture>
 
 ⭐ *Thank you for visiting my GitHub profile! Feel free to explore my repositories and connect with me.*
 
